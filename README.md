@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://omariabdelilah.github.io"><img src="https://img.shields.io/badge/Website-omariabdelilah.github.io-0E8A78?style=for-the-badge" alt="Website" /></a>
   <a href="https://orcid.org/0009-0006-2563-8264"><img src="https://img.shields.io/badge/ORCID-0009--0006--2563--8264-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/abdelilah-omari-ba6289149"><img src="https://img.shields.io/badge/LinkedIn-Abdelilah_Omari-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:abdelilah.omari@usmba.ac.ma"><img src="https://img.shields.io/badge/Email-USMBA-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
