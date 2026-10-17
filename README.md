@@ -18,7 +18,7 @@ Mathematics teacher since 2018, with a Master's degree in Applied Mathematics.
 
 | Repository | Description |
 |---|---|
-| [marrakech-tourism-llmR1](https://github.com/omariabdelilah/marrakech-tourism-llm) | Zero-shot LLM pipeline for multi-dimensional analysis of Marrakech tourism reviews in a single inference |
+| [marrakech-tourism-llm](https://github.com/omariabdelilah/marrakech-tourism-llm) | Zero-shot LLM pipeline for multi-dimensional analysis of Marrakech tourism reviews in a single inference |
 | [IAI-replication](https://github.com/omariabdelilah/IAI-replication) | Replication materials for the Inclusive Adoption Index analysis |
 
 ### 🛠️ Tools
